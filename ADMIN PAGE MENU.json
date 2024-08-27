@@ -1,0 +1,29 @@
+{
+    "sweets": [
+        {
+            "name": "Gulab Jamun",
+            "description": "Delicious sweet made of milk solids.",
+            "image": "https://example.com/images/gulab-jamun.jpg",
+            "quantities": {
+                "small": "250 grams",
+                "medium": "500 grams",
+                "large": "750 grams",
+                "x-large": "1000 grams"
+            }
+        }
+    ],
+    "snacks": [
+        {
+            "name": "Chivda",
+            "description": "Spicy and crunchy snack.",
+            "image": "https://example.com/images/chivda.jpg",
+            "quantities": {
+                "small": "250 grams",
+                "medium": "500 grams",
+                "large": "750 grams",
+                "x-large": "1000 grams"
+            }
+        }
+    ]
+    // Add more categories and items as needed
+}
